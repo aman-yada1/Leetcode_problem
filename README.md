@@ -16,9 +16,9 @@ Solved: 15 (Easy: 11, Medium: 3, Hard: 0)
 | 617 | [Merge Two Binary Trees](617-merge-two-binary-trees/) | Easy | 2026-10-09 |
 | 530 | [Minimum Absolute Difference in BST](530-minimum-absolute-difference-in-bst/) | Easy | 2026-10-09 |
 | 783 | [Minimum Distance Between BST Nodes](783-minimum-distance-between-bst-nodes/) | Easy | 2026-10-09 |
+| 118 | [Pascal's Triangle](118-pascals-triangle/) | Easy | 2026-10-09 |
 |  | [replace-employee-id-with-the-unique-identifier](replace-employee-id-with-the-unique-identifier/) | Unknown | 2026-10-09 |
 | 610 | [Triangle Judgement](610-triangle-judgement/) | Easy | 2026-10-09 |
 | 653 | [Two Sum IV - Input is a BST](653-two-sum-iv-input-is-a-bst/) | Easy | 2026-10-09 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-09 |
-| 118 | [Pascal's Triangle](118-pascals-triangle/) | Easy | 2026-10-09 |
 <!-- LEETHUB:TABLE:END -->
