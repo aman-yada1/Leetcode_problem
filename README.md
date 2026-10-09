@@ -2,7 +2,7 @@
 This repository contains my LeetCode problem-solving journey as a 1st-year B.Tech CS student.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 15 (Easy: 11, Medium: 3, Hard: 0)
+Solved: 16 (Easy: 12, Medium: 3, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -21,4 +21,5 @@ Solved: 15 (Easy: 11, Medium: 3, Hard: 0)
 | 610 | [Triangle Judgement](610-triangle-judgement/) | Easy | 2026-10-09 |
 | 653 | [Two Sum IV - Input is a BST](653-two-sum-iv-input-is-a-bst/) | Easy | 2026-10-09 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-09 |
+| 1287 | [Element Appearing More Than 25% In Sorted Array](1287-element-appearing-more-than-25-in-sorted-array/) | Easy | 2026-10-09 |
 <!-- LEETHUB:TABLE:END -->
