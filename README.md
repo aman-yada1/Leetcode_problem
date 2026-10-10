@@ -2,7 +2,7 @@
 This repository contains my LeetCode problem-solving journey as a 1st-year B.Tech CS student.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 20 (Easy: 15, Medium: 4, Hard: 0)
+Solved: 21 (Easy: 15, Medium: 5, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -21,9 +21,10 @@ Solved: 20 (Easy: 15, Medium: 4, Hard: 0)
 | 530 | [Minimum Absolute Difference in BST](530-minimum-absolute-difference-in-bst/) | Easy | 2026-10-10 |
 | 783 | [Minimum Distance Between BST Nodes](783-minimum-distance-between-bst-nodes/) | Easy | 2026-10-10 |
 | 118 | [Pascal's Triangle](118-pascals-triangle/) | Easy | 2026-10-10 |
+| 99 | [Recover Binary Search Tree](99-recover-binary-search-tree/) | Medium | 2026-10-10 |
 |  | [replace-employee-id-with-the-unique-identifier](replace-employee-id-with-the-unique-identifier/) | Unknown | 2026-10-10 |
 | 610 | [Triangle Judgement](610-triangle-judgement/) | Easy | 2026-10-10 |
 | 653 | [Two Sum IV - Input is a BST](653-two-sum-iv-input-is-a-bst/) | Easy | 2026-10-10 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-10 |
-| 99 | [Recover Binary Search Tree](99-recover-binary-search-tree/) | Medium | 2026-10-10 |
+| 1367 | [Linked List in Binary Tree](1367-linked-list-in-binary-tree/) | Medium | 2026-10-10 |
 <!-- LEETHUB:TABLE:END -->
