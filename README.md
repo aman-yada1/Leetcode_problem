@@ -2,12 +2,13 @@
 This repository contains my LeetCode problem-solving journey as a 1st-year B.Tech CS student.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 19 (Easy: 15, Medium: 3, Hard: 0)
+Solved: 20 (Easy: 15, Medium: 4, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
 | 595 | [Big Countries](595-big-countries/) | Easy | 2026-10-10 |
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](1008-construct-binary-search-tree-from-preorder-traversal/) | Medium | 2026-10-10 |
+| 1089 | [Duplicate Zeros](1089-duplicate-zeros/) | Easy | 2026-10-10 |
 | 1287 | [Element Appearing More Than 25% In Sorted Array](1287-element-appearing-more-than-25-in-sorted-array/) | Easy | 2026-10-10 |
 | 584 | [Find Customer Referee](584-find-customer-referee/) | Easy | 2026-10-10 |
 | 1729 | [Find Followers Count](1729-find-followers-count/) | Easy | 2026-10-10 |
@@ -24,5 +25,5 @@ Solved: 19 (Easy: 15, Medium: 3, Hard: 0)
 | 610 | [Triangle Judgement](610-triangle-judgement/) | Easy | 2026-10-10 |
 | 653 | [Two Sum IV - Input is a BST](653-two-sum-iv-input-is-a-bst/) | Easy | 2026-10-10 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-10 |
-| 1089 | [Duplicate Zeros](1089-duplicate-zeros/) | Easy | 2026-10-10 |
+| 99 | [Recover Binary Search Tree](99-recover-binary-search-tree/) | Medium | 2026-10-10 |
 <!-- LEETHUB:TABLE:END -->
