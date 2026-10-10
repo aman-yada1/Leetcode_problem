@@ -2,7 +2,7 @@
 This repository contains my LeetCode problem-solving journey as a 1st-year B.Tech CS student.
 
 <!-- LEETHUB:TABLE:START -->
-Solved: 21 (Easy: 15, Medium: 5, Hard: 0)
+Solved: 22 (Easy: 15, Medium: 6, Hard: 0)
 
 | # | Problem | Difficulty | Solved |
 |---|---|---|---|
@@ -16,6 +16,7 @@ Solved: 21 (Easy: 15, Medium: 5, Hard: 0)
 | 3131 | [Find the Integer Added to Array I](3131-find-the-integer-added-to-array-i/) | Easy | 2026-10-10 |
 | 1517 | [Find Users With Valid E-Mails](1517-find-users-with-valid-e-mails/) | Easy | 2026-10-10 |
 | 3436 | [Find Valid Emails](3436-find-valid-emails/) | Easy | 2026-10-10 |
+| 1367 | [Linked List in Binary Tree](1367-linked-list-in-binary-tree/) | Medium | 2026-10-10 |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium | 2026-10-10 |
 | 617 | [Merge Two Binary Trees](617-merge-two-binary-trees/) | Easy | 2026-10-10 |
 | 530 | [Minimum Absolute Difference in BST](530-minimum-absolute-difference-in-bst/) | Easy | 2026-10-10 |
@@ -26,5 +27,5 @@ Solved: 21 (Easy: 15, Medium: 5, Hard: 0)
 | 610 | [Triangle Judgement](610-triangle-judgement/) | Easy | 2026-10-10 |
 | 653 | [Two Sum IV - Input is a BST](653-two-sum-iv-input-is-a-bst/) | Easy | 2026-10-10 |
 | 98 | [Validate Binary Search Tree](98-validate-binary-search-tree/) | Medium | 2026-10-10 |
-| 1367 | [Linked List in Binary Tree](1367-linked-list-in-binary-tree/) | Medium | 2026-10-10 |
+| 309 | [Best Time to Buy and Sell Stock with Cooldown](309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium | 2026-10-10 |
 <!-- LEETHUB:TABLE:END -->
